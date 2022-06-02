@@ -10,12 +10,12 @@
 ## Cara Installasi
 
 - Buka Terminal / CMD
-- Clone project <code>https://github.com/wildanfuady/Simple-CRUD-Laravel-8.git</code>
-- cd simple-crud-laravel-8
+- Clone project <code>https://github.com/ifs19057/del-Membaca22</code>
+- cd del-Membaca22
 - Ketik <code>composer install</code>
 - Kemudian ketik <code>cp .env.example .env</code>
 - Ketik <code>php artisan key:generate</code>
-- Buat database baru bernama <code>db_laravel8_crud</code>
+- Buat database baru bernama <code>delmembaca</code>
 - Konfigurasi database di <code>.env</code>
 - Ketik <code>php artisan migrate</code>
 - Jalankan dengan <code>php artisan serve</code>
